@@ -4,4 +4,5 @@ three function - I have added unneccessary function
 
 added a chart function in our branch
 
-added a code for doing logout
+
+adding a new function to login user via X method
